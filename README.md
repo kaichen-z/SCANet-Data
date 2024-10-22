@@ -1,6 +1,6 @@
 # SCANet
 
-This is the repository that contains source code for the [SCANet website](http://github.com/Yaser-wyx/SCANet).
+This is the repository that contains dataset for the [SCANet website](https://scanet-iros2024.github.io/).
 
 ## LEGO-ECA dataset
 This dataset which is based on the [Synthetic LEGO Dataset](https://arxiv.org/abs/2207.12572 "Translating a Visual LEGO Manual to a Machine-Executable Plan. ECCV, 2022") comprises 1,429 LEGO assembly manuals, each containing 2D illustrations of each assembly step along with various possible assembly failure scenarios.
